@@ -1,11 +1,18 @@
 [
     {
-        "id": 1,
         "name": "高级波形扩展",
-        "version": "1.2.0",
+        "version": "1.2.1",
         "author": "System",
-        "desc": "正弦、三角、方波波形生成工具",
-        "icon": "https://picsum.photos/200/200",
-        "url": "https://github.com/xxx/高级波形扩展.zip"
+        "desc": "波形生成工具",
+        "icon": "fa-wave-square",
+        "url": "https://github.com/xxx/xxx/releases/download/1.2.1/wave_ext.zip"
+    },
+    {
+        "name": "系统工具",
+        "version": "2.1.0",
+        "author": "Dev",
+        "desc": "系统监控工具",
+        "icon": "fa-wrench",
+        "url": "https://github.com/xxx/xxx/releases/download/2.1.0/tools.zip"
     }
 ]
