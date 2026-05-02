@@ -1,0 +1,11 @@
+[
+    {
+        "id": 1,
+        "name": "高级波形扩展",
+        "version": "1.2.0",
+        "author": "System",
+        "desc": "正弦、三角、方波波形生成工具",
+        "icon": "https://picsum.photos/200/200",
+        "url": "https://github.com/xxx/高级波形扩展.zip"
+    }
+]
