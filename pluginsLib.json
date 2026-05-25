@@ -6,5 +6,13 @@
         "desc": "支持有血条的任何游戏",
         "icon": "",
         "url": "https://github.com/thx114/DG-LAB-HitElectric/releases/download/v4.0.1/HitElectric-4.0.1.zip"
+    },
+    {
+        "name": "csgo_dglab",
+        "version": "1.0.0",
+        "author": "RicoShot",
+        "desc": "CSGO联动dglab",
+        "icon": "",
+        "url": ""
     }
 ]
