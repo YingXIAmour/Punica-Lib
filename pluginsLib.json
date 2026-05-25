@@ -1,18 +1,10 @@
 [
     {
-        "name": "高级波形扩展",
-        "version": "1.2.1",
-        "author": "System",
-        "desc": "波形生成工具",
-        "icon": "fa-wave-square",
-        "url": "https://github.com/xxx/xxx/releases/download/1.2.1/wave_ext.zip"
-    },
-    {
-        "name": "系统工具",
-        "version": "2.1.0",
-        "author": "Dev",
-        "desc": "系统监控工具",
-        "icon": "fa-wrench",
-        "url": "https://github.com/xxx/xxx/releases/download/2.1.0/tools.zip"
+        "name": "挨打就电",
+        "version": "4.0.1",
+        "author": "喵小夕丶F_thx",
+        "desc": "支持有血条的任何游戏",
+        "icon": "",
+        "url": "https://github.com/thx114/DG-LAB-HitElectric/releases/download/v4.0.1/HitElectric-4.0.1.zip"
     }
 ]
