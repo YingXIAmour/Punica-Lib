@@ -14,5 +14,13 @@
         "desc": "CSGO联动dglab",
         "icon": "",
         "url": ""
+    },
+    {
+        "name": "mc_dglab",
+        "version": "1.0.0",
+        "author": "YingXIAmour",
+        "desc": "Minecraft联动DGLAB支持1.18.2-1.21等版本 具体查看 https://github.com/YingXIAmour/healthws",
+        "icon": "",
+        "url": "https://github.com/YingXIAmour/Punica-Lib/plugins/mc_dglab.zip"
     }
 ]
